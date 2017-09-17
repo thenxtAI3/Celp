@@ -9,3 +9,6 @@ Go into college knowing that you made the right decision!
 
 *This app was developed by 5 freshmen during OtterHacks 2017 in CSU Monterey Bay.
 
+![Hello World](https://github.com/thenxtAI3/Celp/blob/master/preview1.png)
+![Hello World](https://github.com/thenxtAI3/Celp/blob/master/preview2.png)
+![Hello World](https://github.com/thenxtAI3/Celp/blob/master/preview3.png)
