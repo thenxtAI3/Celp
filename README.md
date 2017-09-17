@@ -1,6 +1,6 @@
 # Celp!: The college Yelp!
 
-If you're like any other college student, you remember making one of the hardest decisions in your life, the college you were going to attend. The long hours researching the school you want to go to with the goal of trying to find out if the school is really right for you. Well, now there's a solution!.
+If you're like any other college student, you remember making one of the hardest decisions in your life, the college you were going to attend. The long hours researching the school you want to go to with the goal of trying to find out if the school is really right for you. Well, now there's a solution!
 
 Celp! is an app that aims to deliver the genuine consumer review to colleges and universities.
 
