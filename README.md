@@ -12,3 +12,5 @@ Go into college knowing that you made the right decision!
 ![Hello World](https://github.com/thenxtAI3/Celp/blob/master/preview1.png)
 ![Hello World](https://github.com/thenxtAI3/Celp/blob/master/preview2.png)
 ![Hello World](https://github.com/thenxtAI3/Celp/blob/master/preview3.png)
+
+Credits: Alexis O'Neill | Antonio Vega | Elijah Baird | Erick Acedo
